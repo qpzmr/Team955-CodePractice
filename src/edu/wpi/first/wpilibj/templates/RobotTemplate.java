@@ -7,7 +7,7 @@
 
 package edu.wpi.first.wpilibj.templates;
 
-
+// This is practice
 import edu.wpi.first.wpilibj.SimpleRobot;
 
 /**
