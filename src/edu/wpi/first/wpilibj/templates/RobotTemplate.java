@@ -29,6 +29,10 @@ public class RobotTemplate extends SimpleRobot {
      * This function is called once each time the robot enters operator control.
      */
     public void operatorControl() {
-
+        int test = 5;
+        boolean win = false;
+        
+        if(test == 5)
+            win  = true;
     }
 }
